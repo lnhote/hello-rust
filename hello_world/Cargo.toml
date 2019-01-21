@@ -5,3 +5,6 @@ authors = ["Hunter Lin <lnhote@gmail.com>"]
 edition = "2018"
 
 [dependencies]
+time = "0.1.12"
+regex = "0.1.41"
+rand = { git = "https://github.com/rust-lang-nursery/rand.git", rev = "9f35b8e" }
